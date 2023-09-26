@@ -1,0 +1,10 @@
+Ứng dụng học sâu và bài toán gợi ý.
+(15 tuần) - 04/09/2023 - 18-23/12/2023
+- Tìm hiểu về bài toán gợi ý.
+- Tìm hiểu các phương pháp cổ điển cho bài toán gợi ý.
+  + user-user collaborative filtering
+  + item-item collaborative filtering
+  + matrix factorization collaborative filtering
+- Tìm hiểu các phương pháp học sâu cho bài toán gợi ý
+- So sánh và đánh giá các phương pháp
+- Xây dựng ứng dụng minh họa (web)
